@@ -5,7 +5,7 @@ const errorPage = () => (
   <div>
     <h1>No page here!!!</h1>
     <p>
-      Go{" "}
+      Go
       <Link href="/">
         <a>back !</a>
       </Link>
