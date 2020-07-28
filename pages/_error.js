@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const errorPage = () => (
   <div>
-    <h1>No page here!!!</h1>
+    <h1>No page here!!</h1>
     <p>
       Go
       <Link href="/">
